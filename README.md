@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manya Parikh</h1>
-<h5 align="center">A results-oriented software developer specializing in architecting scalable backend systems with ASP.NET and leveraging data analytics to drive business intelligence. My expertise lies in engineering secure, enterprise-grade applications and APIs while transforming complex data into actionable insights. With a comprehensive foundation in the full technology stack, I am passionate about building data-centric products that deliver measurable impact. Actively seeking a challenging role to contribute to a forward-thinking organization.</h5>
+<h1 >Hi 👋, I'm Manya Parikh</h1>
+<h5 >A results-oriented software developer specializing in architecting scalable backend systems with ASP.NET and leveraging data analytics to drive business intelligence. My expertise lies in engineering secure, enterprise-grade applications and APIs while transforming complex data into actionable insights. With a comprehensive foundation in the full technology stack, I am passionate about building data-centric products that deliver measurable impact. Actively seeking a challenging role to contribute to a forward-thinking organization.</h5>
 
 - 🔭 I’m currently working on [Skillsyde](https://github.com/Manya2302/Skillsyde)
 
 - 🌱 I’m currently learning **ASP.NET, Data Science**
 
-- 💬 Ask me about **My Project**
+- 💬 Ask me about My Project
   
 - 😎 Open to contracting opportunities if the project sounds cool.
 

@@ -6,6 +6,16 @@
 - 🌱 I’m currently learning **ASP.NET, Data Science**
 
 - 💬 Ask me about **My Project**
+😎 Open to contracting opportunities if the project sounds cool.
+
+🏢 Currenty Studying a Msc Information Technology.
+
+⚙️ Love working with: .html, .js, .css. , ASPNET , Data Science
+
+🌱 Learning more about and studying: Open Source, Anguler, Node Js.
+
+📫 Reach me asap: manyaparikh23@gmail.com.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

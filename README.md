@@ -1,28 +1,252 @@
-<h1 >Hi 👋, I'm Manya Parikh</h1>
-<h5 >A results-oriented software developer specializing in architecting scalable backend systems with ASP.NET and leveraging data analytics to drive business intelligence. My expertise lies in engineering secure, enterprise-grade applications and APIs while transforming complex data into actionable insights. With a comprehensive foundation in the full technology stack, I am passionate about building data-centric products that deliver measurable impact. Actively seeking a challenging role to contribute to a forward-thinking organization.</h5>
+<div align="center">
 
-- 🔭 I’m currently working on [Skillsyde](https://github.com/Manya2302/Skillsyde)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Manya Parikh
 
-- 🌱 I’m currently learning **ASP.NET, Data Science**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F72B&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Building+LLMs+%26+AI+Agents;Python+%7C+FastAPI+%7C+LangChain;Always+Learning+Something+New+🚀" />
 
-- 💬 Ask me about My Project
-  
-- 😎 Open to contracting opportunities if the project sounds cool.
+</div>
 
-- 🏢 Currenty Studying a Msc Information Technology.
+---
 
-- ⚙️ Love working with: .html, .js, .css. , ASPNET , Data Science
+# 🤖 AI SYSTEM INITIALIZATION
 
-- 🌱 Learning more about and studying: Open Source, Anguler, Node Js.
+```bash
+> Booting Manya_AI.exe...
 
-- 📫 Reach me asap: manyaparikh23@gmail.com.
+██████████████████████████████ 100%
 
+Name        :: Manya Parikh
+Role        :: AI Engineer
+Focus       :: Generative AI • LLMs • AI Agents
+Language    :: Python
+Status      :: Online 🟢
+Mission     :: Building Intelligent Applications
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@manyaparikh23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manyaparikh23" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/manya-parikh-7a188825a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manya-parikh" height="30" width="40" /></a>
+---
+
+# 🧠 About Me
+
+AI Engineer passionate about building intelligent software powered by **Large Language Models, AI Agents, Machine Learning, and Retrieval-Augmented Generation (RAG)**.
+
+I enjoy designing scalable AI applications that automate workflows, solve real-world problems, and deliver impactful user experiences. My interests span from backend engineering to production-ready AI systems.
+
+---
+
+# ⚡ Current Status
+
+- 🔭 Building AI-powered applications
+- 🌱 Learning **LangGraph, MCP, Fine-tuning & Multi-Agent Systems**
+- 🤝 Open to AI collaborations
+- 💬 Ask me about **Python, FastAPI, LLMs, AI Agents, RAG**
+- 📫 Reach me: **YOUR_EMAIL**
+- ⚡ Fun Fact: I spend more time debugging prompts than writing them 😄
+
+---
+
+# 🧠 AI Identity
+
+```yaml
+Name:
+    Manya Parikh
+
+Role:
+    AI Engineer
+
+Specialization:
+    • Generative AI
+    • Large Language Models
+    • AI Agents
+    • Retrieval-Augmented Generation
+    • Machine Learning
+
+Currently Learning:
+    • LangGraph
+    • MCP
+    • AI Workflows
+    • Fine-Tuning
+
+Interests:
+    • Open Source
+    • Research Papers
+    • AI Startups
+    • Automation
+```
+
+---
+
+# 💻 Tech Stack
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge">
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman" />
+</p>
+
+---
+
+# 🚀 Featured AI Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Interview Assistant | Mock interviews powered by LLMs |
+| 📄 Resume Analyzer | ATS Resume Scoring using AI |
+| 📚 PDF Chatbot | Chat with PDFs using RAG |
+| 💬 AI Customer Support | Intelligent chatbot with memory |
+| 🧠 AI Agent | Autonomous task execution |
+| 🎙 Voice Assistant | Speech-to-AI pipeline |
+
+---
+
+# ⚡ AI Skills
+
+```text
+Python                 ████████████████████ 95%
+
+Machine Learning       █████████████████░░ 90%
+
+Generative AI          ██████████████████░ 92%
+
+LLMs                   ██████████████████░ 92%
+
+FastAPI                █████████████████░░ 90%
+
+RAG                    ████████████████░░░ 85%
+
+Cloud                  ██████████████░░░░░ 80%
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🤖 AI Terminal
+
+```bash
+visitor@github:~$
+
+$ whoami
+
+> AI Engineer
+
+$ skills
+
+> Python
+> Machine Learning
+> LLMs
+> LangChain
+> FastAPI
+> AI Agents
+> RAG
+
+$ currently_working
+
+> Building intelligent AI applications...
+
+$ status
+
+> Ready for collaboration 🚀
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Artificial Intelligence is not replacing developers. Developers using AI will replace those who don't."
+
+⭐ Thanks for visiting my profile!
+
+</div>

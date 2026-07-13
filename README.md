@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="./assets/spiderman.svg" width="100%" alt="MANYA // AI ENGINEER" />
+<div align="center" style="background-color: #0A0A0A; padding: 40px; border-bottom: 2px solid #00F0FF;">
+  <h1 style="color: #00F0FF; font-family: monospace; font-size: 38px; margin: 0; text-shadow: 0 0 10px #00F0FF;">MANYA // AI ENGINEER ⬡</h1>
 </div>
 
 <br>
@@ -10,16 +10,16 @@
   <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">[+] SECTION_01: EDUCATION & CERTIFICATIONS</summary>
   <table width="100%" style="background-color: #050505; color: #E0E0E0; border-collapse: collapse; border-left: 3px solid #00F0FF;">
     <tr>
-      <td width="5%" align="center">🎓</td>
-      <td width="95%"><strong>B.S. in Computer Science & Artificial Intelligence</strong></td>
+      <td width="15%" style="color: #00F0FF; font-family: monospace;">[DEGREE]</td>
+      <td width="85%"><strong>B.S. in Computer Science & Artificial Intelligence</strong></td>
     </tr>
     <tr>
-      <td width="5%" align="center">🎖️</td>
-      <td width="95%"><strong>Certified Machine Learning Engineer</strong></td>
+      <td width="15%" style="color: #00F0FF; font-family: monospace;">[CERT]</td>
+      <td width="85%"><strong>Certified Machine Learning Engineer</strong></td>
     </tr>
     <tr>
-      <td width="5%" align="center">🏆</td>
-      <td width="95%"><strong>Applied Generative AI Specialist</strong></td>
+      <td width="15%" style="color: #00F0FF; font-family: monospace;">[CERT]</td>
+      <td width="85%"><strong>Applied Generative AI Specialist</strong></td>
     </tr>
   </table>
 </details>
@@ -27,11 +27,11 @@
 <details open>
   <summary style="color: #00FF66; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333; margin-top: 10px;">[+] SECTION_02: CORE AI SKILLS</summary>
   <table width="100%" style="background-color: #050505; color: #E0E0E0; border-collapse: collapse; border-left: 3px solid #00FF66;">
-    <tr><td width="5%" align="center">🚀</td><td><strong>LLM Orchestration & Prompt Engineering</strong></td></tr>
-    <tr><td width="5%" align="center">🔍</td><td><strong>RAG (Retrieval-Augmented Generation) Architecture</strong></td></tr>
-    <tr><td width="5%" align="center">🧠</td><td><strong>Agentic AI & Multi-Agent Systems</strong></td></tr>
-    <tr><td width="5%" align="center">🗃️</td><td><strong>Vector Databases & Semantic Search</strong></td></tr>
-    <tr><td width="5%" align="center">🎙️</td><td><strong>Voice-First AI & Speech-to-Text pipelines</strong></td></tr>
+    <tr><td width="15%" style="color: #00FF66; font-family: monospace;">[SYS]</td><td><strong>LLM Orchestration & Prompt Engineering</strong></td></tr>
+    <tr><td width="15%" style="color: #00FF66; font-family: monospace;">[ARC]</td><td><strong>RAG (Retrieval-Augmented Generation) Architecture</strong></td></tr>
+    <tr><td width="15%" style="color: #00FF66; font-family: monospace;">[AGT]</td><td><strong>Agentic AI & Multi-Agent Systems</strong></td></tr>
+    <tr><td width="15%" style="color: #00FF66; font-family: monospace;">[DB]</td><td><strong>Vector Databases & Semantic Search</strong></td></tr>
+    <tr><td width="15%" style="color: #00FF66; font-family: monospace;">[AUD]</td><td><strong>Voice-First AI & Speech-to-Text pipelines</strong></td></tr>
   </table>
 </details>
 
@@ -39,19 +39,19 @@
   <summary style="color: #B026FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333; margin-top: 10px;">[+] SECTION_03: TECHNOLOGY STACK</summary>
   <table width="100%" style="background-color: #050505; color: #E0E0E0; border-collapse: collapse; border-left: 3px solid #B026FF;">
     <tr>
-      <td width="20%" style="color: #B026FF; font-weight: bold;">LANGUAGES</td>
+      <td width="20%" style="color: #B026FF; font-weight: bold; font-family: monospace;">LANGUAGES</td>
       <td width="80%">Python, TypeScript, SQL, Bash</td>
     </tr>
     <tr>
-      <td width="20%" style="color: #B026FF; font-weight: bold;">AI MODELS</td>
+      <td width="20%" style="color: #B026FF; font-weight: bold; font-family: monospace;">AI MODELS</td>
       <td width="80%">OpenAI GPT-4, Anthropic Claude 3.5, Google Gemini, Groq, LLaMA</td>
     </tr>
     <tr>
-      <td width="20%" style="color: #B026FF; font-weight: bold;">FRAMEWORKS</td>
+      <td width="20%" style="color: #B026FF; font-weight: bold; font-family: monospace;">FRAMEWORKS</td>
       <td width="80%">LangChain, LangGraph, LlamaIndex, FastAPI, React</td>
     </tr>
     <tr>
-      <td width="20%" style="color: #B026FF; font-weight: bold;">DEVOPS</td>
+      <td width="20%" style="color: #B026FF; font-weight: bold; font-family: monospace;">DEVOPS</td>
       <td width="80%">Docker, AWS, Celery, Redis, Qdrant, Pinecone</td>
     </tr>
   </table>
@@ -105,31 +105,31 @@
 
 <table width="100%" style="background-color: #050505; color: #E0E0E0; border: 1px solid #333;">
   <tr style="background-color: #0A0A0A; color: #00F0FF;">
-    <th align="left">PROJECT</th>
-    <th align="left">DESCRIPTION</th>
+    <th align="left" width="40%">PROJECT</th>
+    <th align="left" width="60%">DESCRIPTION</th>
   </tr>
   <tr>
-    <td>🤖 <strong>AI Interview Assistant</strong></td>
+    <td><span style="color: #00F0FF; font-family: monospace;">[PRJ]</span> <strong>AI Interview Assistant</strong></td>
     <td>Mock interviews powered by LLMs</td>
   </tr>
   <tr>
-    <td>📄 <strong>Resume Analyzer</strong></td>
+    <td><span style="color: #00F0FF; font-family: monospace;">[PRJ]</span> <strong>Resume Analyzer</strong></td>
     <td>ATS Resume Scoring using AI</td>
   </tr>
   <tr>
-    <td>📚 <strong>PDF Chatbot</strong></td>
+    <td><span style="color: #00F0FF; font-family: monospace;">[PRJ]</span> <strong>PDF Chatbot</strong></td>
     <td>Chat with PDFs using RAG</td>
   </tr>
   <tr>
-    <td>💬 <strong>AI Customer Support</strong></td>
+    <td><span style="color: #00F0FF; font-family: monospace;">[PRJ]</span> <strong>AI Customer Support</strong></td>
     <td>Intelligent chatbot with memory</td>
   </tr>
   <tr>
-    <td>🧠 <strong>AI Agent</strong></td>
+    <td><span style="color: #00F0FF; font-family: monospace;">[PRJ]</span> <strong>AI Agent</strong></td>
     <td>Autonomous task execution</td>
   </tr>
   <tr>
-    <td>🎙 <strong>Voice Assistant</strong></td>
+    <td><span style="color: #00F0FF; font-family: monospace;">[PRJ]</span> <strong>Voice Assistant</strong></td>
     <td>Speech-to-AI pipeline</td>
   </tr>
 </table>

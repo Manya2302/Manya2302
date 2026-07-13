@@ -1,51 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="100%" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
   <style>
     .bg { fill: #050505; }
     
     .swing-container { 
-      transform-origin: 0px -200px;
-      animation: swing 10s ease-in-out infinite alternate;
+      transform-origin: 500px -600px;
+      animation: swing 19s infinite linear;
     }
+    
+    /* 
+      19s total animation duration.
+      0s to 15s (78.9%): Hidden offscreen.
+      15s to 19s (100%): Swings completely across the screen.
+    */
     @keyframes swing {
-      0% { transform: rotate(-40deg); }
-      100% { transform: rotate(40deg); }
+      0%, 78.94% { transform: rotate(-40deg); opacity: 0; }
+      78.95% { transform: rotate(-40deg); opacity: 1; }
+      100% { transform: rotate(40deg); opacity: 1; }
     }
     
-    .web-line { stroke: #FFF; stroke-width: 1.5; opacity: 0.8; }
+    .web-line { stroke: #FFFFFF; stroke-width: 1.5; opacity: 0.6; }
     
-    /* Spidey simple shapes */
-    .suit-red { fill: #D92525; }
-    .suit-blue { fill: #0B3C5D; }
-    .eye-white { fill: #FFF; }
-    .eye-black { fill: #000; }
+    /* Slim, athletic Spidey Silhouette */
+    .spidey { fill: #FF003C; filter: drop-shadow(0 0 15px #FF003C); }
+    .spidey-blue { fill: #0B3C5D; filter: drop-shadow(0 0 10px #0B3C5D); }
+    .eye { fill: #FFF; filter: drop-shadow(0 0 5px #FFF); }
+    
+    .glow-text {
+      font-family: monospace; 
+      font-size: 52px; 
+      font-weight: bold; 
+      fill: #00F0FF; 
+      text-anchor: middle; 
+      filter: drop-shadow(0px 0px 8px #00F0FF);
+    }
   </style>
-  <rect width="1000" height="200" class="bg" />
+  <rect width="1000" height="250" class="bg" />
   
-  <!-- Spiderman swinging in background -->
+  <text x="500" y="140" class="glow-text">MANYA // AI ENGINEER ⬡</text>
+
+  <!-- Spiderman swinging in foreground -->
   <g class="swing-container">
-    <line x1="0" y1="-200" x2="500" y2="100" class="web-line" />
-    <g transform="translate(500, 100) rotate(15) scale(0.9)">
-      <!-- Body -->
-      <path d="M-15,-20 C-30,-20 -30,20 -15,40 C-5,50 5,50 15,40 C30,20 30,-20 15,-20 Z" class="suit-blue" />
-      <path d="M-10,-20 C-20,-20 -20,10 -10,20 C0,25 0,25 10,20 C20,10 20,-20 10,-20 Z" class="suit-red" />
+    <line x1="500" y1="-600" x2="500" y2="100" class="web-line" />
+    
+    <g transform="translate(500, 100) rotate(15) scale(0.5)">
+      <!-- Dynamic Slim Silhouette using Bezier Curves -->
+      <!-- Left Arm extended up holding web -->
+      <path class="spidey" d="M-10,-40 C-15,-60 -5,-100 0,-120 C5,-120 15,-100 10,-60 C8,-50 -5,-40 -10,-40 Z" />
+      
+      <!-- Torso (Slim) -->
+      <path class="spidey-blue" d="M-20,-40 C-30,-20 -25,20 -10,35 C5,45 15,35 25,20 C35,0 30,-20 20,-40 C10,-45 -10,-45 -20,-40 Z" />
+      
+      <!-- Red Chest Pattern -->
+      <path class="spidey" d="M-15,-40 C-10,-10 10,-10 15,-40 C10,-20 -10,-20 -15,-40 Z" />
+      <path class="spidey" d="M-5,-10 L0,30 L5,-10 Z" />
+      
+      <!-- Right Arm pulled back -->
+      <path class="spidey" d="M20,-30 C40,-10 60,-20 70,-40 C75,-50 65,-60 55,-50 C45,-40 30,-20 20,-30 Z" />
+      
+      <!-- Left Leg (Knee bent forward) -->
+      <path class="spidey-blue" d="M-10,30 C-30,50 -50,50 -60,40 C-70,30 -50,10 -30,20 C-15,30 -5,25 -10,30 Z" />
+      <path class="spidey" d="M-60,40 C-70,45 -80,35 -75,25 C-70,15 -55,25 -60,40 Z" /> <!-- Boot -->
+      
+      <!-- Right Leg (Extended down and back) -->
+      <path class="spidey-blue" d="M15,30 C20,60 10,90 20,110 C30,130 45,110 35,80 C25,50 30,30 15,30 Z" />
+      <path class="spidey" d="M20,110 C25,135 15,145 5,140 C-5,135 5,120 20,110 Z" /> <!-- Boot -->
+      
       <!-- Head -->
-      <ellipse cx="0" cy="-35" rx="15" ry="18" class="suit-red" />
-      <!-- Eyes -->
-      <path d="M-2,-35 C-8,-38 -12,-35 -14,-30 C-10,-30 -5,-32 -2,-35 Z" class="eye-black" />
-      <path d="M-3,-34.5 C-7,-37 -10,-35 -12,-31 C-9,-31 -5,-33 -3,-34.5 Z" class="eye-white" />
-      <path d="M2,-35 C8,-38 12,-35 14,-30 C10,-30 5,-32 2,-35 Z" class="eye-black" />
-      <path d="M3,-34.5 C7,-37 10,-35 12,-31 C9,-31 5,-33 3,-34.5 Z" class="eye-white" />
-      <!-- Arms -->
-      <path d="M-15,-15 L-30,-40 L-25,-45 L-10,-20 Z" class="suit-red" /> <!-- Left holding web -->
-      <path d="M15,-15 L35,-10 L30,-5 L15,-10 Z" class="suit-red" /> <!-- Right out -->
-      <!-- Legs -->
-      <path d="M-10,35 L-20,60 L-15,65 L-5,40 Z" class="suit-blue" />
-      <path d="M-20,60 L-25,75 L-15,75 L-15,65 Z" class="suit-red" />
-      <path d="M10,35 L20,60 L15,65 L5,40 Z" class="suit-blue" />
-      <path d="M20,60 L25,75 L15,75 L15,65 Z" class="suit-red" />
+      <path class="spidey" d="M-15,-60 C-25,-85 10,-95 20,-75 C30,-55 0,-40 -15,-60 Z" />
+      
+      <!-- Glowing Eyes -->
+      <path class="eye" d="M-5,-70 C-15,-72 -18,-65 -20,-60 C-10,-60 -5,-65 -5,-70 Z" />
+      <path class="eye" d="M5,-72 C15,-75 20,-68 18,-62 C10,-62 5,-67 5,-72 Z" />
     </g>
   </g>
-  
-  <!-- Foreground Text -->
-  <text x="500" y="115" font-family="monospace" font-size="48" font-weight="bold" fill="#00F0FF" text-anchor="middle" filter="drop-shadow(0px 0px 8px #000)">MANYA // AI ENGINEER ⬡</text>
 </svg>

@@ -2,8 +2,6 @@
   <img src="./assets/spiderman.svg" width="100%" alt="MANYA // AI ENGINEER" />
 </div>
 
-<img src="./assets/homelander-scroll.svg" align="right" height="2500" />
-
 <br>
 
 ## ⬡ AI ENGINEER DATA ARCHIVE

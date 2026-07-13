@@ -1,6 +1,8 @@
 <div align="center">
-  <h1 style="color: #00F0FF; font-family: monospace;">MANYA // AI ENGINEER ⬡</h1>
+  <img src="./assets/spiderman.svg" width="100%" alt="MANYA // AI ENGINEER" />
 </div>
+
+<img src="./assets/homelander-scroll.svg" align="right" height="2500" />
 
 <br>
 
@@ -189,36 +191,7 @@ Cloud                  ██████████████░░░░░
 
 <br>
 
-## ⬡ CURRENT DEPLOYED MODULES
 
-<div align="center">
-  <img src="./assets/scanner.svg" width="100%" alt="Scanner" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4 style="color: #00F0FF;">MODULE_001: Enterprise RAG</h4>
-      <pre style="background-color: #0A0A0A; color: #00FF66; border: 1px solid #333;">
-Status:   ONLINE
-Latency:  130ms
-Memory:   8GB
-Accuracy: 97%
-      </pre>
-    </td>
-    <td width="50%">
-      <h4 style="color: #B026FF;">MODULE_002: Coordinator Agent</h4>
-      <pre style="background-color: #0A0A0A; color: #00FF66; border: 1px solid #333;">
-Status:   ONLINE
-Latency:  45ms
-Memory:   2GB
-Accuracy: 99%
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ## ⬡ KNOWLEDGE GRAPH
 
@@ -236,15 +209,7 @@ Accuracy: 99%
 
 <br>
 
-## ⬡ NEURAL ACTIVITY (CONTRIBUTIONS)
 
-<div align="center">
-  <img src="./assets/brain.svg" width="100%" alt="Neural Activity Brain" />
-</div>
-
-*Integrated visual representation of recent semantic commits and AI interactions.*
-
-<br>
 
 ## ⬡ DEPLOYMENT LOGS
 
@@ -301,13 +266,7 @@ COMMUNICATION CHANNELS:
 
 <br><br>
 
-## ⬡ SECURITY OVERWATCH
 
-<div align="center">
-  <img src="./assets/homelander.svg" width="100%" alt="Homelander Laser Scan" />
-</div>
-
-<br><br>
 
 <div align="center">
   <img src="./assets/footer.svg" width="100%" alt="System Shutdown" />

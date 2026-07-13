@@ -8,32 +8,53 @@
 
 <details open>
   <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">[+] SECTION_01: EDUCATION & CERTIFICATIONS</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF; margin-top: 0;">
-🎓 B.S. in Computer Science & Artificial Intelligence
-🎓 Certified Machine Learning Engineer
-🎓 Applied Generative AI Specialist
-  </pre>
+  <table width="100%" style="background-color: #050505; color: #E0E0E0; border-collapse: collapse; border-left: 3px solid #00F0FF;">
+    <tr>
+      <td width="5%" align="center">🎓</td>
+      <td width="95%"><strong>B.S. in Computer Science & Artificial Intelligence</strong></td>
+    </tr>
+    <tr>
+      <td width="5%" align="center">🎖️</td>
+      <td width="95%"><strong>Certified Machine Learning Engineer</strong></td>
+    </tr>
+    <tr>
+      <td width="5%" align="center">🏆</td>
+      <td width="95%"><strong>Applied Generative AI Specialist</strong></td>
+    </tr>
+  </table>
 </details>
 
 <details open>
-  <summary style="color: #00FF66; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">[+] SECTION_02: CORE AI SKILLS</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00FF66; margin-top: 0;">
-- LLM Orchestration & Prompt Engineering
-- RAG (Retrieval-Augmented Generation) Architecture
-- Agentic AI & Multi-Agent Systems
-- Vector Databases & Semantic Search
-- Voice-First AI & Speech-to-Text pipelines
-  </pre>
+  <summary style="color: #00FF66; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333; margin-top: 10px;">[+] SECTION_02: CORE AI SKILLS</summary>
+  <table width="100%" style="background-color: #050505; color: #E0E0E0; border-collapse: collapse; border-left: 3px solid #00FF66;">
+    <tr><td width="5%" align="center">🚀</td><td><strong>LLM Orchestration & Prompt Engineering</strong></td></tr>
+    <tr><td width="5%" align="center">🔍</td><td><strong>RAG (Retrieval-Augmented Generation) Architecture</strong></td></tr>
+    <tr><td width="5%" align="center">🧠</td><td><strong>Agentic AI & Multi-Agent Systems</strong></td></tr>
+    <tr><td width="5%" align="center">🗃️</td><td><strong>Vector Databases & Semantic Search</strong></td></tr>
+    <tr><td width="5%" align="center">🎙️</td><td><strong>Voice-First AI & Speech-to-Text pipelines</strong></td></tr>
+  </table>
 </details>
 
 <details open>
-  <summary style="color: #B026FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">[+] SECTION_03: TECHNOLOGY STACK</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #B026FF; margin-top: 0;">
-LANGUAGES : Python, TypeScript, SQL, Bash
-AI MODELS : OpenAI GPT-4, Anthropic Claude 3.5, Google Gemini, Groq, LLaMA
-FRAMEWORKS: LangChain, LangGraph, LlamaIndex, FastAPI, React
-DEVOPS    : Docker, AWS, Celery, Redis, Qdrant, Pinecone
-  </pre>
+  <summary style="color: #B026FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333; margin-top: 10px;">[+] SECTION_03: TECHNOLOGY STACK</summary>
+  <table width="100%" style="background-color: #050505; color: #E0E0E0; border-collapse: collapse; border-left: 3px solid #B026FF;">
+    <tr>
+      <td width="20%" style="color: #B026FF; font-weight: bold;">LANGUAGES</td>
+      <td width="80%">Python, TypeScript, SQL, Bash</td>
+    </tr>
+    <tr>
+      <td width="20%" style="color: #B026FF; font-weight: bold;">AI MODELS</td>
+      <td width="80%">OpenAI GPT-4, Anthropic Claude 3.5, Google Gemini, Groq, LLaMA</td>
+    </tr>
+    <tr>
+      <td width="20%" style="color: #B026FF; font-weight: bold;">FRAMEWORKS</td>
+      <td width="80%">LangChain, LangGraph, LlamaIndex, FastAPI, React</td>
+    </tr>
+    <tr>
+      <td width="20%" style="color: #B026FF; font-weight: bold;">DEVOPS</td>
+      <td width="80%">Docker, AWS, Celery, Redis, Qdrant, Pinecone</td>
+    </tr>
+  </table>
 </details>
 
 <br>
@@ -191,21 +212,6 @@ Cloud                  ██████████████░░░░░
 
 
 
-## ⬡ KNOWLEDGE GRAPH
-
-<div align="center">
-  <img src="./assets/graph.svg" width="100%" alt="Knowledge Graph" />
-</div>
-
-<br>
-
-## ⬡ VECTOR DATABASE (RAG)
-
-<div align="center">
-  <img src="./assets/knowledge.svg" width="100%" alt="Vector Database" />
-</div>
-
-<br>
 
 
 
@@ -262,10 +268,4 @@ COMMUNICATION CHANNELS:
   </pre>
 </details>
 
-<br><br>
 
-
-
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="System Shutdown" />
-</div>

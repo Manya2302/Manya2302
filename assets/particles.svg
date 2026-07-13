@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <style>
+    .bg { fill: #050505; }
+    .particle { fill: #00F0FF; animation: float 10s infinite linear; opacity: 0.6; }
+    @keyframes float {
+      0% { transform: translateY(200px) translateX(0px); opacity: 0; }
+      50% { opacity: 1; }
+      100% { transform: translateY(-50px) translateX(50px); opacity: 0; }
+    }
+  </style>
+  <rect width="800" height="200" class="bg" />
+  <!-- Generate multiple particles with different delays -->
+  <circle cx="100" cy="0" r="2" class="particle" style="animation-duration: 8s; animation-delay: 0s;" />
+  <circle cx="250" cy="0" r="1.5" class="particle" style="animation-duration: 12s; animation-delay: 2s;" />
+  <circle cx="400" cy="0" r="3" class="particle" style="animation-duration: 9s; animation-delay: 1s;" />
+  <circle cx="550" cy="0" r="2.5" class="particle" style="animation-duration: 11s; animation-delay: 3s;" />
+  <circle cx="700" cy="0" r="2" class="particle" style="animation-duration: 10s; animation-delay: 0.5s;" />
+  <circle cx="150" cy="0" r="1" class="particle" style="animation-duration: 14s; animation-delay: 4s;" />
+  <circle cx="650" cy="0" r="3" class="particle" style="animation-duration: 13s; animation-delay: 1.5s;" />
+  <circle cx="350" cy="0" r="2" class="particle" style="animation-duration: 9.5s; animation-delay: 2.5s; fill: #B026FF;" />
+  <circle cx="50" cy="0" r="2.5" class="particle" style="animation-duration: 8.5s; animation-delay: 3.5s; fill: #00FF66;" />
+</svg>

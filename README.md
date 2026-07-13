@@ -1,124 +1,6 @@
 <div align="center">
-  <img src="./assets/boot.svg" width="100%" alt="Boot Sequence" />
+  <h1 style="color: #00F0FF; font-family: monospace;">MANYA // AI ENGINEER ⬡</h1>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/core.svg" width="100%" alt="AI Core" />
-</div>
-
-<br>
-
-## ⬡ NEURAL STATUS DASHBOARD
-
-<table width="100%" style="border: none; background-color: #050505;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; background-color: #050505;">
-      <img src="./assets/hud.svg" width="100%" alt="HUD" />
-    </td>
-    <td width="40%" style="border: none; background-color: #050505; padding-left: 20px;">
-      <h3 style="color: #00F0FF; font-family: monospace; margin-top: 0;">SYSTEM METRICS</h3>
-      <p style="color: #E0E0E0; font-family: monospace;">
-        <strong>STATUS:</strong> <span style="color: #00FF66;">ONLINE</span><br>
-        <strong>LATENCY:</strong> 12ms<br>
-        <strong>MEMORY:</strong> 256TB<br>
-        <strong>COMPUTE:</strong> OPTIMAL
-      </p>
-      <img src="https://img.shields.io/badge/CORE_TEMP-34%C2%B0C-00F0FF?style=for-the-badge&color=050505&labelColor=111" alt="Temp" /><br><br>
-      <img src="https://img.shields.io/badge/GPU_USAGE-87%25-B026FF?style=for-the-badge&color=050505&labelColor=111" alt="GPU" /><br><br>
-      <img src="https://img.shields.io/badge/NEURAL_SYNC-99.9%25-00FF66?style=for-the-badge&color=050505&labelColor=111" alt="Sync" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## ⬡ LIVE AGENT DASHBOARD
-
-<div align="center">
-  <img src="./assets/agents.svg" width="100%" alt="Live Agents" />
-</div>
-
-<br>
-
-## ⬡ CURRENT DEPLOYED MODULES
-
-<div align="center">
-  <img src="./assets/scanner.svg" width="100%" alt="Scanner" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4 style="color: #00F0FF;">MODULE_001: Enterprise RAG</h4>
-      <pre style="background-color: #0A0A0A; color: #00FF66; border: 1px solid #333;">
-Status:   ONLINE
-Latency:  130ms
-Memory:   8GB
-Accuracy: 97%
-      </pre>
-    </td>
-    <td width="50%">
-      <h4 style="color: #B026FF;">MODULE_002: Coordinator Agent</h4>
-      <pre style="background-color: #0A0A0A; color: #00FF66; border: 1px solid #333;">
-Status:   ONLINE
-Latency:  45ms
-Memory:   2GB
-Accuracy: 99%
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## ⬡ AI ARCHITECTURE DIAGRAM
-
-```mermaid
-graph TD;
-    classDef core fill:#050505,stroke:#00F0FF,stroke-width:2px,color:#00F0FF;
-    classDef sub fill:#050505,stroke:#B026FF,stroke-width:2px,color:#B026FF;
-    classDef data fill:#050505,stroke:#00FF66,stroke-width:2px,color:#00FF66;
-
-    A[User Input]:::core --> B(Coordinator Agent):::sub;
-    B --> C{Intent Router}:::core;
-    C -->|Research| D[Search API]:::data;
-    C -->|RAG| E[Vector DB]:::data;
-    C -->|Code| F[Sandbox]:::sub;
-    
-    D --> G(Synthesis Agent):::sub;
-    E --> G;
-    F --> G;
-    
-    G --> H[Final Output]:::core;
-```
-
-<br>
-
-## ⬡ KNOWLEDGE GRAPH
-
-<div align="center">
-  <img src="./assets/graph.svg" width="100%" alt="Knowledge Graph" />
-</div>
-
-<br>
-
-## ⬡ VECTOR DATABASE (RAG)
-
-<div align="center">
-  <img src="./assets/knowledge.svg" width="100%" alt="Vector Database" />
-</div>
-
-<br>
-
-## ⬡ NEURAL ACTIVITY (CONTRIBUTIONS)
-
-<div align="center">
-  <img src="./assets/brain.svg" width="100%" alt="Neural Activity Brain" />
-</div>
-
-*Integrated visual representation of recent semantic commits and AI interactions.*
 
 <br>
 
@@ -155,59 +37,6 @@ DEVOPS    : Docker, AWS, Celery, Redis, Qdrant, Pinecone
 </details>
 
 <br>
-
-## ⬡ DEPLOYMENT LOGS
-
-<div align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal Logs" />
-</div>
-
-<br>
-
-## ⬡ INTERACTIVE TERMINAL
-
-<details>
-  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> help</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
-AVAILABLE COMMANDS:
-- about:    Display Manya AI Core specifications
-- projects: List active AI research modules
-- research: Show current machine learning experiments
-- contact:  Initialize communication protocol
-  </pre>
-</details>
-
-<details>
-  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> about</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
-MANYA AI CORE v2.0
-An advanced autonomous system focused on:
-- Multi-Agent Orchestration
-- High-Performance Retrieval-Augmented Generation
-- Voice-First AI Interfaces
-- Zero-Knowledge Security Protocols
-  </pre>
-</details>
-
-<details>
-  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> research</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
-CURRENT EXPERIMENTS:
-- Sub-100ms Voice-to-Voice latency optimizations
-- OCR error correction for low-resource languages
-- Physics-based interactive Knowledge Graphs
-  </pre>
-</details>
-
-<details>
-  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> contact</summary>
-  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
-COMMUNICATION CHANNELS:
-[GitHub](https://github.com/Manya2302)
-[LinkedIn](https://linkedin.com/in/manya)
-[Email](mailto:hello@example.com)
-  </pre>
-</details>
 
 ## ⬡ DETAILED TECH STACK
 
@@ -349,6 +178,126 @@ Cloud                  ██████████████░░░░░
     ⭐ Thanks for visiting my profile!
   </p>
 </div>
+
+<br><br>
+
+## ⬡ LIVE AGENT DASHBOARD
+
+<div align="center">
+  <img src="./assets/agents.svg" width="100%" alt="Live Agents" />
+</div>
+
+<br>
+
+## ⬡ CURRENT DEPLOYED MODULES
+
+<div align="center">
+  <img src="./assets/scanner.svg" width="100%" alt="Scanner" />
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h4 style="color: #00F0FF;">MODULE_001: Enterprise RAG</h4>
+      <pre style="background-color: #0A0A0A; color: #00FF66; border: 1px solid #333;">
+Status:   ONLINE
+Latency:  130ms
+Memory:   8GB
+Accuracy: 97%
+      </pre>
+    </td>
+    <td width="50%">
+      <h4 style="color: #B026FF;">MODULE_002: Coordinator Agent</h4>
+      <pre style="background-color: #0A0A0A; color: #00FF66; border: 1px solid #333;">
+Status:   ONLINE
+Latency:  45ms
+Memory:   2GB
+Accuracy: 99%
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## ⬡ KNOWLEDGE GRAPH
+
+<div align="center">
+  <img src="./assets/graph.svg" width="100%" alt="Knowledge Graph" />
+</div>
+
+<br>
+
+## ⬡ VECTOR DATABASE (RAG)
+
+<div align="center">
+  <img src="./assets/knowledge.svg" width="100%" alt="Vector Database" />
+</div>
+
+<br>
+
+## ⬡ NEURAL ACTIVITY (CONTRIBUTIONS)
+
+<div align="center">
+  <img src="./assets/brain.svg" width="100%" alt="Neural Activity Brain" />
+</div>
+
+*Integrated visual representation of recent semantic commits and AI interactions.*
+
+<br>
+
+## ⬡ DEPLOYMENT LOGS
+
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal Logs" />
+</div>
+
+<br>
+
+## ⬡ INTERACTIVE TERMINAL
+
+<details>
+  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> help</summary>
+  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
+AVAILABLE COMMANDS:
+- about:    Display Manya AI Core specifications
+- projects: List active AI research modules
+- research: Show current machine learning experiments
+- contact:  Initialize communication protocol
+  </pre>
+</details>
+
+<details>
+  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> about</summary>
+  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
+MANYA AI CORE v2.0
+An advanced autonomous system focused on:
+- Multi-Agent Orchestration
+- High-Performance Retrieval-Augmented Generation
+- Voice-First AI Interfaces
+- Zero-Knowledge Security Protocols
+  </pre>
+</details>
+
+<details>
+  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> research</summary>
+  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
+CURRENT EXPERIMENTS:
+- Sub-100ms Voice-to-Voice latency optimizations
+- OCR error correction for low-resource languages
+- Physics-based interactive Knowledge Graphs
+  </pre>
+</details>
+
+<details>
+  <summary style="color: #00F0FF; font-family: monospace; cursor: pointer; font-size: 16px; padding: 10px; background: #0A0A0A; border: 1px solid #333;">> contact</summary>
+  <pre style="background-color: #050505; color: #E0E0E0; padding: 15px; border-left: 2px solid #00F0FF;">
+COMMUNICATION CHANNELS:
+[GitHub](https://github.com/Manya2302)
+[LinkedIn](https://linkedin.com/in/manya)
+[Email](mailto:hello@example.com)
+  </pre>
+</details>
 
 <br><br>
 
